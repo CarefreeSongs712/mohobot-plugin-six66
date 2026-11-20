@@ -1,0 +1,10 @@
+name: six66
+author: CarefreeSongs712
+display_name: 六六六
+version: 1.0.0
+description: 群聊随机复读 6/66/666
+repo: https://github.com/CarefreeSongs712/mohobot-plugin-six66
+license: MIT
+api_version: 1
+mohobot_version: ">=0.1.0"
+tags: [fun]
